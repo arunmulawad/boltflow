@@ -1,6 +1,5 @@
-import { Button, Card } from "react-bootstrap";
+import { Card } from "react-bootstrap";
 import "./App.css";
-import { useState } from "react";
 import Design from "./Design";
 /* import Data from "./Data"; */
 
